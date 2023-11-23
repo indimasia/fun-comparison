@@ -8,26 +8,26 @@ Just for fun comparison of Programming Languages
 
 ## Result
 
-PHP
+PHP (2s)
 
 ![PHP](gifs/php.gif)
 
-Python
+Python (4s)
 
 ![Python](gifs/python.gif)
 
-Go
+Go (7s)
 
 ![Go](gifs/go.gif)
 
-Compiled Go
+Compiled Go (7s)
 
-![Compiled Go](gifs/compiled \go.gif)
+![Compiled Go](gifs/compiled_go.gif)
 
-Node
+Node (7s)
 
 ![Node](gifs/node.gif)
 
-Bun
+Bun (7s)
 
 ![Bun](gifs/bun.gif)
